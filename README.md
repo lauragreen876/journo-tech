@@ -1,1 +1,1 @@
-# journo-tech
+# quiet-news
